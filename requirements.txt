@@ -2,6 +2,5 @@ pandas
 matplotlib
 numpy
 scipy
-sklearn
 scikit-learn
 tensorflow
